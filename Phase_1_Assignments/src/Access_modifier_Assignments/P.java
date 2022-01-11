@@ -1,3 +1,7 @@
+/*P class  -->
+ call and print the variables of class M and N*/
+
+
 package Access_modifier_Assignments;
 
 

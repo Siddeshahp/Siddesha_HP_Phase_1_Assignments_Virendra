@@ -1,3 +1,10 @@
+/*Assignment 3: 
+create the 4 student objects with name s1,s2,s3,s4
+- declare the class member variables with String name, int age, section(char type), gender (char type), and three int subject marks (subject1, subject 2, subject 3). 
+Calculate the total marks and percentage obtained by every student (total= subject 1 + subject 2+ subject 3) by passing the values from the parameterized constructor. and for s2 and s3 students we will not pass subject 1 marks so it is 0 so don't pass it in constructor.
+
+
+*/
 package Constructor_Assignments;
 public class Assignment_4 
 {

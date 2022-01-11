@@ -1,3 +1,10 @@
+/*
+X class -->
+ private  int 
+ default long
+ protected float
+ public char*/
+
 package Access_modifiers_Assignments_1;
 
 public class X 

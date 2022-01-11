@@ -1,3 +1,8 @@
+/*M class  --> 
+ private  int 
+ default long
+ protected float*/
+
 package Access_modifier_Assignments;
 
 public class M 

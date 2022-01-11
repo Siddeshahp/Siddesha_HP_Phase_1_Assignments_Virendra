@@ -1,3 +1,6 @@
+/*Y class ---> call all the methods of the N, M class and call all the variables of the class X
+
+*/
 package Access_modifiers_Assignments_1;
 import Access_modifier_Assignments.M;
 import Access_modifier_Assignments.N;

@@ -1,3 +1,8 @@
+/*N class  --->
+  protected long 
+  public int
+  default double*/
+
 package Access_modifier_Assignments;
 
 public class N 
